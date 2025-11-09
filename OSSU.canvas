@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"de308c79ee468ca3","type":"text","text":"# PreReq","x":-910,"y":-370,"width":250,"height":60,"color":"2"},
+		{"id":"8e2f8771610c57f8","type":"text","text":"## [Algebra I](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8)","x":-910,"y":-240,"width":250,"height":50},
+		{"id":"2021d4a387e747e7","type":"text","text":"## [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw)","x":-910,"y":-120,"width":250,"height":60},
+		{"id":"7c8ec3b8270207bb","type":"text","text":"## [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ)","x":-910,"y":0,"width":250,"height":60},
+		{"id":"d9d4d8f88eee56ad","type":"text","text":"## [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc)","x":-910,"y":120,"width":250,"height":60},
+		{"id":"a66d4a82a4f63745","type":"text","text":"## [Pre Calculas](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_)","x":-910,"y":240,"width":250,"height":60},
+		{"id":"9eb813d23c94bfcc","type":"text","text":"## MATH","x":-600,"y":245,"width":250,"height":50,"color":"6"},
+		{"id":"3f2ca18dd1b9b7ec","type":"file","file":"SOLID/Studies/OSSU/PreReq/Introduction to Computer Science and Programming using Python.md","x":-536,"y":-420,"width":251,"height":160,"color":"#a29a9a"},
+		{"id":"a9d098f290933136","type":"text","text":"# CORE","x":-200,"y":-370,"width":250,"height":60,"color":"5"},
+		{"id":"3a68b2d76b4e25c1","type":"text","text":"## Programming","x":-200,"y":-240,"width":250,"height":60,"color":"4"},
+		{"id":"13e8d89d2f7c4998","type":"file","file":"SOLID/Studies/OSSU/Core/Systematic Program Design.md","x":-200,"y":-120,"width":250,"height":132,"color":"4"},
+		{"id":"f269abe3b8352917","type":"text","text":"# ADV","x":-200,"y":600,"width":250,"height":60,"color":"1"},
+		{"id":"1a8fa8d05a3e9a2e","type":"text","text":"# OSSU","x":-157,"y":-720,"width":165,"height":50,"color":"#671e1e"}
+	],
+	"edges":[
+		{"id":"9d15c64c92b54bf6","fromNode":"1a8fa8d05a3e9a2e","fromSide":"bottom","toNode":"a9d098f290933136","toSide":"top","color":"#000000"},
+		{"id":"33f68a26a9c64528","fromNode":"1a8fa8d05a3e9a2e","fromSide":"bottom","toNode":"de308c79ee468ca3","toSide":"top","color":"#000000"},
+		{"id":"67554c1878690924","fromNode":"1a8fa8d05a3e9a2e","fromSide":"bottom","toNode":"f269abe3b8352917","toSide":"top","color":"#000000"},
+		{"id":"7a3c84ba87a873ef","fromNode":"de308c79ee468ca3","fromSide":"bottom","toNode":"8e2f8771610c57f8","toSide":"top","color":"2"},
+		{"id":"45fbd793bbeaeac6","fromNode":"8e2f8771610c57f8","fromSide":"bottom","toNode":"2021d4a387e747e7","toSide":"top","color":"2"},
+		{"id":"dd9822215ce254e8","fromNode":"2021d4a387e747e7","fromSide":"bottom","toNode":"7c8ec3b8270207bb","toSide":"top","color":"2"},
+		{"id":"838cfcc4a94e315b","fromNode":"7c8ec3b8270207bb","fromSide":"bottom","toNode":"d9d4d8f88eee56ad","toSide":"top","color":"2"},
+		{"id":"2497e8159104af43","fromNode":"d9d4d8f88eee56ad","fromSide":"bottom","toNode":"a66d4a82a4f63745","toSide":"top","color":"2"},
+		{"id":"7b15902e28e33326","fromNode":"a9d098f290933136","fromSide":"bottom","toNode":"9eb813d23c94bfcc","toSide":"right","color":"5"},
+		{"id":"00820aaf42022b0c","fromNode":"a9d098f290933136","fromSide":"bottom","toNode":"3a68b2d76b4e25c1","toSide":"top","color":"5"},
+		{"id":"42c2b2e9fa0d06f7","fromNode":"a66d4a82a4f63745","fromSide":"right","toNode":"9eb813d23c94bfcc","toSide":"left","color":"2"},
+		{"id":"9a98eebd7a4de756","fromNode":"de308c79ee468ca3","fromSide":"right","toNode":"3f2ca18dd1b9b7ec","toSide":"left","color":"2"},
+		{"id":"603d98ac5484a46a","fromNode":"3f2ca18dd1b9b7ec","fromSide":"right","toNode":"a9d098f290933136","toSide":"left","color":"2"},
+		{"id":"be891d16331f77b4","fromNode":"3a68b2d76b4e25c1","fromSide":"bottom","toNode":"13e8d89d2f7c4998","toSide":"top","color":"4"}
+	]
+}
