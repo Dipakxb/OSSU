@@ -1,18 +1,19 @@
 {
 	"nodes":[
 		{"id":"de308c79ee468ca3","type":"text","text":"# PreReq","x":-910,"y":-370,"width":250,"height":60,"color":"2"},
-		{"id":"8e2f8771610c57f8","type":"text","text":"## [Algebra I](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8)","x":-910,"y":-240,"width":250,"height":50},
+		{"id":"8e2f8771610c57f8","type":"text","text":"## [Algebra I](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8)\n[^1]\n\n[^1]: Nov\n","x":-910,"y":-240,"width":250,"height":50},
 		{"id":"2021d4a387e747e7","type":"text","text":"## [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw)","x":-910,"y":-120,"width":250,"height":60},
 		{"id":"7c8ec3b8270207bb","type":"text","text":"## [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ)","x":-910,"y":0,"width":250,"height":60},
 		{"id":"d9d4d8f88eee56ad","type":"text","text":"## [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc)","x":-910,"y":120,"width":250,"height":60},
 		{"id":"a66d4a82a4f63745","type":"text","text":"## [Pre Calculas](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_)","x":-910,"y":240,"width":250,"height":60},
 		{"id":"9eb813d23c94bfcc","type":"text","text":"## MATH","x":-600,"y":245,"width":250,"height":50,"color":"6"},
-		{"id":"3f2ca18dd1b9b7ec","type":"file","file":"SOLID/Studies/OSSU/PreReq/Introduction to Computer Science and Programming using Python.md","x":-536,"y":-420,"width":251,"height":160,"color":"#a29a9a"},
 		{"id":"a9d098f290933136","type":"text","text":"# CORE","x":-200,"y":-370,"width":250,"height":60,"color":"5"},
 		{"id":"3a68b2d76b4e25c1","type":"text","text":"## Programming","x":-200,"y":-240,"width":250,"height":60,"color":"4"},
-		{"id":"13e8d89d2f7c4998","type":"file","file":"SOLID/Studies/OSSU/Core/Systematic Program Design.md","x":-200,"y":-120,"width":250,"height":132,"color":"4"},
+		{"id":"13e8d89d2f7c4998","type":"file","file":"SOLID/Studies/OSSU/Core/Systematic Program Design.md","x":-200,"y":-80,"width":250,"height":80,"color":"4"},
 		{"id":"f269abe3b8352917","type":"text","text":"# ADV","x":-200,"y":600,"width":250,"height":60,"color":"1"},
-		{"id":"1a8fa8d05a3e9a2e","type":"text","text":"# OSSU","x":-157,"y":-720,"width":165,"height":50,"color":"#671e1e"}
+		{"id":"1a8fa8d05a3e9a2e","type":"text","text":"# OSSU","x":-157,"y":-720,"width":165,"height":50,"color":"#671e1e"},
+		{"id":"3f2ca18dd1b9b7ec","type":"file","file":"SOLID/Studies/OSSU/PreReq/Introduction to Computer Science and Programming using Python.md","x":-560,"y":-430,"width":251,"height":180,"color":"#a29a9a"},
+		{"id":"b7b0a9259d867181","type":"text","text":"# Current Priority  MATH and Core programming","x":420,"y":-720,"width":250,"height":125}
 	],
 	"edges":[
 		{"id":"9d15c64c92b54bf6","fromNode":"1a8fa8d05a3e9a2e","fromSide":"bottom","toNode":"a9d098f290933136","toSide":"top","color":"#000000"},
